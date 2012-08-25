@@ -1,3 +1,0 @@
-[submodule "wp-content/plugins/spartan"]
-	path = wp-content/plugins/spartan
-	url = git://github.com/draganescu/spartanPHP.git
